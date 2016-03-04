@@ -1,0 +1,24 @@
+{
+    "prepare_queue": {
+        "installed": [],
+        "uninstalled": []
+    },
+    "config_munge": {
+        "files": {}
+    },
+    "installed_plugins": {
+        "cordova-plugin-globalization": {
+            "PACKAGE_NAME": "com.packtpub.phonegaphotshot.filerv5"
+        },
+        "ionic-plugin-keyboard": {
+            "PACKAGE_NAME": "com.packtpub.phonegaphotshot.filerv5"
+        },
+        "cordova-plugin-file": {
+            "PACKAGE_NAME": "com.packtpub.phonegaphotshot.filerv5"
+        },
+        "cordova-plugin-media": {
+            "PACKAGE_NAME": "com.packtpub.phonegaphotshot.filerv5"
+        }
+    },
+    "dependent_plugins": {}
+}
